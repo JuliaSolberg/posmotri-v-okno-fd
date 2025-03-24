@@ -144,6 +144,8 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 5px;
+  max-width: 196px;
+  overflow: hidden;
 }
 
 .content__video-card-thumbnail {
